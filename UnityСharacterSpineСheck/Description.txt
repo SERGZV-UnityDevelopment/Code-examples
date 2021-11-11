@@ -1,0 +1,8 @@
+English:
+This code is for use in the unity editor. It checks the character or characters imported from Spine for recurring errors.
+Like not correct skin names or skeleton names.
+
+Русский:
+Этот код предназначен для использования в редакторе unity.
+Он проверяет персонажа или персонажей импортированных из программы Spine на часто повторяющиеся ошибки.
+Вроде не правильных названий скинов или имён скелетов. 
